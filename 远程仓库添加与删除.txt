@@ -1,5 +1,5 @@
-É¾³ý£º
+ï»¿åˆ é™¤ï¼š
 git remote rm origin
 
-Ìí¼Ó£º
+æ·»åŠ ï¼š
 git remote add origin https://github.com/Joecao123/software.git
